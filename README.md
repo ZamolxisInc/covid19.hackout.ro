@@ -30,7 +30,7 @@ Because we had to insert the data manual, in order to be 100% real, that took ti
 
 Basic config of codeigniter is enough: config.php and database.php does the sh&t. Also, try to use httpS only
 
-Inline-style: 
+Screens: 
 ![alt text](https://raw.githubusercontent.com/ZamolxisInc/covid19.hackout.ro/master/git-imgs/1.PNG "Pic")
 ![alt text](https://raw.githubusercontent.com/ZamolxisInc/covid19.hackout.ro/master/git-imgs/2.PNG "Pic")
 ![alt text](https://raw.githubusercontent.com/ZamolxisInc/covid19.hackout.ro/master/git-imgs/3.PNG "Pic")
