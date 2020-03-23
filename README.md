@@ -17,6 +17,11 @@ We tried to give the people a live tool to monitor the number of infections and 
   - It also has a simple API controlled
 
 
+
+### Bonus data:
+
+We included in sql/manual 2 sql dumps: one is the dump with the db structure and the other one is the entire data ready to be inserted with the *data of the first 576 infected ppl* ~ it contains multiple NULL but still can be used in some ways for studying the disease and how it spread.
+
 ### Why did we stopped?
 
 Because we had to insert the data manual, in order to be 100% real, that took time for our volunteers and also, the authorities decided not to provide anymore data about infections, only the count. So, the purpose: statistics based on people's parameters, could not be satisfied anymore.
