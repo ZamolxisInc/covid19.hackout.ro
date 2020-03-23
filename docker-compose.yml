@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+    aplication:
+        image: naqoda/centos-apache-php
+        volumes:
+            - ./trasab/:/var/www/app/public_html/
+        ports:
+            - "80:80"

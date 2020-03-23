@@ -1,0 +1,19 @@
+.btn-group {
+  float:right;
+}
+.dataTables_filter {
+  float:left;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.mg-center{
+  margin: 0 auto;
+}
+
+.mt-105{
+  margin-top: 1.5vh;
+}
+

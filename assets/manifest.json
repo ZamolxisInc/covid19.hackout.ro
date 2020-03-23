@@ -1,0 +1,15 @@
+{
+    "background_color": "#000000",
+    "description": "Hackout.ro, ultimele informatii despre COVID-19",
+    "display": "standalone",
+    "icons": [{
+       "src": "img/hackout_h_white5.png",
+       "sizes": "331x50",
+       "type": "image/png"
+    }],
+    "name": "COVID-19 (Hackout.ro)",
+    "scope": "/",
+    "short_name": "COVID-19 (Hackout.ro)",
+    "start_url": "/",
+    "theme_color": "#000000"
+}
